@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <a href="https://www.istat.it/" target="_blank">
   <img src="https://img.shields.io/badge/Source-ISTAT-E12C2C?style=for-the-badge&logoColor=white" alt="ISTAT Red Badge">
 </p>
 
@@ -51,7 +52,7 @@ In questa fase è stata applicata la **Regressione Lineare** per proiettare i da
 * 📂 [**Python**](./Python/) : Il core tecnico con il codice di Data Cleaning e Machine Learning ([Criminalità e sicurezza.ipynb](./Criminalità%20e%20sicurezza.ipynb)).
 * 📂 [**CSV**](./Data/CSV/) : I file CSV pronti per l'analisi (tra cui `unpivot_df_powerbi.csv` e `df_con_predizioni.csv`).
 * 📂 [**Power BI**](./Power%20BI/) : Il file sorgente `.pbix` per Power BI.
-* 📂 [**Images**](./Images/) : Loghi del team, asset grafici e documentazione visiva dei risultati.
+* 📂 [**Images**](./Images/) : Loghi del team, asset grafici e documentazione visiva dei risultati sottoforma di screenshot del documento Power BI.
 
 ---
 
