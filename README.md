@@ -36,13 +36,13 @@ L'indagine analizza criticamente l'andamento della sicurezza nazionale attravers
 * **Normalizzazione:** Calcolo delle misure pro-capite per rendere i dati confrontabili tra regioni con diverse densità demografiche.
 
 ### 2. Modellazione Predittiva (Validazione Scientifica)
-In questa fase è stata applicata la **Regressione Lineare** per proiettare i dati al 2030. Seguendo un approccio rigoroso:
+In questa fase è stata applicata la **Regressione Lineare** per proiettare i dati al 2030.
 * **Detenuti Totali e Stranieri:** I modelli hanno mostrato rilevanza statistica e sono stati utilizzati per le predizioni (v. file [df_con_predizioni.csv](./df_con_predizioni.csv)).
 * **Rischio Percepito:** Nonostante il tentativo di modellazione, i risultati sulla percezione della popolazione non sono risultati statisticamente significativi; pertanto, per correttezza scientifica, sono stati esclusi dalle predizioni finali.
 
 ### 3. Business Intelligence (Power BI)
 * **Logica DAX:** Utilizzo di misure personalizzate per ricavare dati complementari non presenti nei dataset originali (es. calcolo derivato della popolazione e dei detenuti di nazionalità italiana) e per la gestione delle metriche pro-capite regionali.
-* **Storytelling Interattivo:** Dashboard progettata per esplorare i dati di ogni regione, facilitando l'identificazione di trend locali e il confronto tra criminalità reale e percezione del rischio.
+* **Storytelling Interattivo:** Dashboard progettata per esplorare i dati di ogni regione anche attraverso la funzione "Drill through", facilitando l'identificazione di trend locali e il confronto tra criminalità reale e percezione del rischio.
 
 ---
 
